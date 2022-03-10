@@ -61,4 +61,4 @@ public class ItemRepositoryTest {
         assertThat(findItem.getQuantity()).isEqualTo(updateParam.getQuantity());
     }
 }
-}
+
